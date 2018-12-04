@@ -1,0 +1,48 @@
+.jumbotron{
+  background-image:url("../images/background.jpg");
+  color:rgba(0, 0, 255, 0.507);
+  background-size:100%;
+}
+.nav-link{
+  color:rgba(0, 0, 255, 0.507);
+}
+.nav-item{
+  color:rgba(0, 0, 255, 0.507);
+}
+
+#par1{
+  color:rgba(0, 0, 255, 0.507);
+}
+
+.section2{
+  height:400px;
+  color:white;
+  background-color:rgba(0, 0, 255, 0.507);
+}
+.col-sm-4{
+  margin:50px 0 0 0;
+}
+.paragraph{
+  color:rgba(0, 0, 0, 0.507);
+}
+
+#section3{
+align:text-center;
+}
+
+#links{
+  background-color:white;
+}
+
+#links:hover{
+  background-color:rgba(0, 0, 255, 0.507);
+  color:white;
+}
+
+#video{
+margin:50px 0 0 0;
+}
+
+#videotitle{
+color:rgba(0, 0, 255, 0.507);
+}
